@@ -24,4 +24,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: WindwsBuild
-        path: target/releases/*.exe
+        path: target/release/*.exe
